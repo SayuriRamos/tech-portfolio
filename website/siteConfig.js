@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'SayuriRamos',
+    organizationName: 'sayuriramos',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: 'sayuri-r-a483a61b1',
         twitter: '',
-        github: 'SayuriRamos',
+        github: 'sayurisamos',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
